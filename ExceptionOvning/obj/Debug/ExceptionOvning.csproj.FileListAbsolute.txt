@@ -1,0 +1,7 @@
+C:\Users\nick_\source\repos\OgotaSolutions\ExceptionOvning\ExceptionOvning\bin\Debug\ExceptionOvning.exe.config
+C:\Users\nick_\source\repos\OgotaSolutions\ExceptionOvning\ExceptionOvning\bin\Debug\ExceptionOvning.exe
+C:\Users\nick_\source\repos\OgotaSolutions\ExceptionOvning\ExceptionOvning\bin\Debug\ExceptionOvning.pdb
+C:\Users\nick_\source\repos\OgotaSolutions\ExceptionOvning\ExceptionOvning\obj\Debug\ExceptionOvning.csproj.AssemblyReference.cache
+C:\Users\nick_\source\repos\OgotaSolutions\ExceptionOvning\ExceptionOvning\obj\Debug\ExceptionOvning.csproj.CoreCompileInputs.cache
+C:\Users\nick_\source\repos\OgotaSolutions\ExceptionOvning\ExceptionOvning\obj\Debug\ExceptionOvning.exe
+C:\Users\nick_\source\repos\OgotaSolutions\ExceptionOvning\ExceptionOvning\obj\Debug\ExceptionOvning.pdb
